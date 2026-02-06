@@ -117,7 +117,3 @@ streamlit run app.py
 * [ ] **Calendar Integration:** Add "Add to Google Calendar" button for events.
 * [ ] **Email Notifications:** Alert users when new hackathons are announced.
 * [ ] **Multi-Language Support:** Auto-translate event descriptions.
-```bash
-pip freeze > requirements.txt
-
-```
